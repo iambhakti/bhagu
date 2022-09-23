@@ -1,0 +1,25 @@
+
+#include<stdio.h>
+#include<conio.h>
+main()
+{
+   int a,b;
+   clrscr();
+
+   printf("enter the value of X:");
+   scanf("%d",&x);
+   printf("enter the value of y:");
+   scanf("%d",&y);
+
+
+
+
+
+
+
+
+
+
+
+
+
